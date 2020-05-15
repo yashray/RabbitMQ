@@ -1,0 +1,13 @@
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/repository/VisitRepository.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/models/VisitReminder.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/service/VisitService.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/service/NotesService.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/service/BasicService.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/repository/NotesRepository.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/models/Notes.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/models/Visit.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/controller/BasicController.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/controller/NotesController.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/controller/VisitController.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/PetClinicVisit.java
+/Users/m_688776/Projects/Petclinic-Visit-Cassandra-Starter/petclinic-visit/src/main/java/com/example/petclinic/config/CassandraConfig.java
